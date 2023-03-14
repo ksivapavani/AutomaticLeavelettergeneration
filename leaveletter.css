@@ -1,0 +1,133 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#header{
+    width: 100%;
+    height: 400px;
+    background-image: url(./pexels-suzy-hazelwood-1995842.jpg);
+    background-size: 100% 400px;
+    box-shadow: 0px 5px 10px black;
+}
+#hea{
+    background-color: rgb(221, 226, 231);
+   position: relative;
+   top: 125px;
+   left:450px;
+   display: inline-block;
+   letter-spacing: 15px;
+   text-shadow: 2px 2px 5px black;
+}
+#a1,#b1,#c1
+{
+    width: 100%;
+    border: 2px solid blue;
+    height: 150px;
+}
+#heading,#bc,#text{
+    float: left;
+    margin-top: 60px;
+}
+#hc,#bcol,#tc{
+    float: right;
+    width: 100px;
+    height: 30px;
+   position: relative;
+   right: 60px;
+   top:  60px;
+}
+#hr{
+    width: 300px;
+    position: relative;
+    top:-60px;
+    left: 600px;
+}
+#hdiv{
+    width: 400px;
+    height: 150px;
+    overflow: auto;
+}
+#hc{
+    top:-60px;
+}
+#logos{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    float: left;
+    left: 550px;
+    top: -100px;
+}
+i{
+    font-size: 30px;
+    padding: 10px;
+    rotate: 180deg;
+}
+#boundry{
+    width: 400px;
+    height: 150px;
+}
+#bcol{
+    top: -100px;
+}
+#bc{
+    display: block;
+    width: 100%;
+}
+th{
+    padding: 10px;
+    font-size: 30px;
+    text-align: left;
+}
+#lhead{
+    padding-top: 30px;
+    width: 100%;
+    height: 80px;
+    overflow: hidden;
+}
+#from{
+    width:150px;
+    margin-left: 20px;
+    height: 100px;
+}
+#to{
+    width:150px;
+    margin-left: 20px;
+    height: 150px;
+}
+#TodaysDate{
+    margin-left: 20px;
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+}
+#sub{
+    margin-left: 180px;
+}
+#obd{
+    margin-left: 800px;
+}
+#bodyofle{
+    margin-left: 280px;
+}
+#bu{
+    position: absolute;
+    left: 45%;
+    top: 600px;
+}
+#Toname,#Toadd,#Fname,#Fadd{
+    display: block;
+}
+#Toname,#Toadd{
+    position: relative;
+    top:100px;
+}
+span{
+    font-size: 20px;
+}
+#sub
+{
+    color: black;
+    font-size: 30px;
+    border-radius: 10px;
+}
